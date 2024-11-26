@@ -42,5 +42,5 @@ Este projeto tem como objetivo fornecer uma ferramenta fácil de usar para o con
 
 Esse projeto é ideal para quem procura uma solução simples e acessível para controlar o acesso à internet, com uma interface gráfica intuitiva e funcionalidades robustas, que incluem segurança por senha, controle de sites e fácil atualização das configurações.
 
-
+Meu perfil: www.linkedin.com/in/gsouzadev
 
